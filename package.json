@@ -1,0 +1,12 @@
+{
+  "name": "getwtfpl",
+  "version": "0.0.3",
+  "description": "a CLI tool to get WTFPL license",
+  "main": "index.js",
+  "author": "TYC",
+  "license": "WTFPL",
+  "url" : "https://github.com/akaxiaok/getWTFPL",
+  "bin": {
+    "getwtfpl": "./bin/index.js"
+  }
+}
