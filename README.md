@@ -1,0 +1,2 @@
+# getWTFPL
+get WTFPL license
